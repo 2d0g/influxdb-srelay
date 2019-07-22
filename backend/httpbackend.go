@@ -6,7 +6,7 @@ import (
 
 	"github.com/rs/zerolog"
 
-	"github.com/toni-moreno/influxdb-srelay/config"
+	"github.com/2d0g/influxdb-srelay/config"
 )
 
 type DbBackend struct {

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/toni-moreno/influxdb-srelay/relayctx"
-	"github.com/toni-moreno/influxdb-srelay/utils"
+	"github.com/2d0g/influxdb-srelay/relayctx"
+	"github.com/2d0g/influxdb-srelay/utils"
 )
 
 func (h *HTTP) handlePing(w http.ResponseWriter, r *http.Request) {

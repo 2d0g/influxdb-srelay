@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/toni-moreno/influxdb-srelay/config"
-	"github.com/toni-moreno/influxdb-srelay/relay"
+	"github.com/2d0g/influxdb-srelay/config"
+	"github.com/2d0g/influxdb-srelay/relay"
 )
 
 // Service is a map of relays

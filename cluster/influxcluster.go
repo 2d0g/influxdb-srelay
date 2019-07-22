@@ -15,10 +15,10 @@ import (
 
 	"github.com/rs/zerolog"
 	"github.com/rs/zerolog/log"
-	"github.com/toni-moreno/influxdb-srelay/backend"
-	"github.com/toni-moreno/influxdb-srelay/config"
-	"github.com/toni-moreno/influxdb-srelay/relayctx"
-	"github.com/toni-moreno/influxdb-srelay/utils"
+	"github.com/2d0g/influxdb-srelay/backend"
+	"github.com/2d0g/influxdb-srelay/config"
+	"github.com/2d0g/influxdb-srelay/relayctx"
+	"github.com/2d0g/influxdb-srelay/utils"
 )
 
 type health struct {

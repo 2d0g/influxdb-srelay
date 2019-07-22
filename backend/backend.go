@@ -2,7 +2,7 @@ package backend
 
 import (
 	"errors"
-	"github.com/toni-moreno/influxdb-srelay/config"
+	"github.com/2d0g/influxdb-srelay/config"
 	"net/http"
 	"time"
 )

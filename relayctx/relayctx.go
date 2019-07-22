@@ -5,7 +5,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
-	"github.com/toni-moreno/influxdb-srelay/backend"
+	"github.com/2d0g/influxdb-srelay/backend"
 	"net/http"
 	"time"
 )
